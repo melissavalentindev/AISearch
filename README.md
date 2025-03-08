@@ -1,7 +1,7 @@
 # Azure AI Search: Indexação e Consulta Inteligente de Dados
 
 ## Sobre este repositório
-Este repositório contém recursos, tutoriais e insights sobre a implementação do Azure AI Search (anteriormente conhecido como Azure Cognitive Search) para indexação e consulta eficiente de dados. Os conteúdos aqui apresentados são baseados no módulo "Utilizando AI Search para indexação e consulta de Dados" e incluem um guia passo a passo para configurar uma solução de pesquisa inteligente na plataforma Microsoft Azure.
+Este repositório contém recursos, tutoriais e insights sobre a implementação do Azure AI Search para indexação e consulta eficiente de dados. Os conteúdos aqui apresentados são baseados no módulo "Utilizando AI Search para indexação e consulta de Dados", do curso Decola Tech da Avanade em parceria com a DIO, e incluem um guia passo a passo para configurar uma solução de pesquisa inteligente na plataforma Microsoft Azure.
 
 ## Introdução ao Azure AI Search
 
